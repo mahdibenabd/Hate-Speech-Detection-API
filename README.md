@@ -1,7 +1,8 @@
 # Hate Speech Detection API
 
 ## Overview
-This project implements a machine learning model to classify text as hate speech or non-hate speech. The model is built using the Naive Bayes algorithm and utilizes the Count Vectorizer for text feature extraction. The API is built with Flask and provides endpoints for making predictions.
+This project implements a machine learning model to classify text as hate speech or non-hate speech specifically in the Tunisian dialect. The model is built using the Naive Bayes algorithm and utilizes the Count Vectorizer for text feature extraction. The API is built with Flask and provides endpoints for making predictions.
+
 
 ## Table of Contents
 - [Installation](#installation)
